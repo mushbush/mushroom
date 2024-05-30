@@ -29,5 +29,5 @@ _이탤릭체_
 
 이미지파일
 
-https://github.com/mushbush/mushroom/blob/main/o0o.png
+![이미지](https://github.com/mushbush/mushroom/blob/main/o0o.png)
 
